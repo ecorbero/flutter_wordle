@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_worlde/components/my_material_banner.dart';
+import 'package:flutter_worlde/constants/guesses.dart';
+import 'package:flutter_worlde/constants/words.dart';
+import 'package:flutter_worlde/data/keyboard.dart';
+import 'package:flutter_worlde/data/word_slot.dart';
+import 'package:flutter_worlde/utils/random_number_generator.dart';
 import 'package:get/get.dart';
-
-import 'package:wordle/components/my_material_banner.dart';
-import 'package:wordle/constants/guesses.dart';
-import 'package:wordle/constants/words.dart';
-import 'package:wordle/data/keyboard.dart';
-import 'package:wordle/data/word_slot.dart';
-import 'package:wordle/utils/random_number_generator.dart';
 
 //All the logic of the game resides in this controller
 

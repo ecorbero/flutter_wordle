@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_worlde/controllers/action.dart';
+import 'package:flutter_worlde/models/alphabet.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'package:wordle/controllers/action.dart';
-import 'package:wordle/models/alphabet.dart';
 
 //A row in a keyboard contains some alphabets
 //Those alphabets are buttons or keys of keyboard

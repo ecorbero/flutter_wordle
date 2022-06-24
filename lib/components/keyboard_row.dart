@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_worlde/components/my_key.dart';
+import 'package:flutter_worlde/controllers/action.dart';
 import 'package:get/get.dart';
-
-import 'package:wordle/components/my_key.dart';
-import 'package:wordle/controllers/action.dart';
 
 //There are three rows containing alphabets in a keyboard
 //Each row in a keyboard will look like this widget

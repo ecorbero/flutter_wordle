@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_worlde/controllers/action.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'package:wordle/controllers/action.dart';
 
 //When a game ends, a message is inserted on the screen
 //The message is placed in a transparent material banner

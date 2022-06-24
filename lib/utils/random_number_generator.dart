@@ -1,9 +1,8 @@
 import 'dart:math';
 
+import 'package:flutter_worlde/constants/words.dart';
+import 'package:flutter_worlde/controllers/action.dart';
 import 'package:get/get.dart';
-
-import 'package:wordle/constants/words.dart';
-import 'package:wordle/controllers/action.dart';
 
 Future<void> randomNumberGenerator() {
   ActionController actionController = Get.find<ActionController>();

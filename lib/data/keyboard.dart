@@ -1,4 +1,4 @@
-import 'package:wordle/models/alphabet.dart';
+import 'package:flutter_worlde/models/alphabet.dart';
 
 class Keyboard {
   //All the disabled alphabets will be stored inside this list

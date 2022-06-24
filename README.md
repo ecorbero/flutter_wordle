@@ -1,17 +1,16 @@
-# wordle
+# flutter_worlde
 
-A mobile rendition of the world famous game called [Wordle](https://www.nytimes.com/games/wordle/index.html)
+A new Flutter project.
 
-# Preview of the Application
+## Getting Started
 
-<img height=500 src="https://github.com/samitkapoor/wordle/blob/master/assets/preview.gif"/>
+This project is a starting point for a Flutter application.
 
-# Packages Used: 
+A few resources to get you started if this is your first Flutter project:
 
-- [get](https://pub.dev/packages/get)
-- [google_fonts](https://pub.dev/packages/google_fonts)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-# Connect with me on:
-- [Linkedin](https://www.linkedin.com/in/samit-kapoor/)
-- [Instagram](https://www.instagram.com/im_samit/) 
-- [Gmail](samitkapoor77@gmail.com)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

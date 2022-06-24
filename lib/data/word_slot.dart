@@ -1,4 +1,4 @@
-import 'package:wordle/models/cell.dart';
+import 'package:flutter_worlde/models/cell.dart';
 
 class WordSlot {
   List<Map<String, dynamic>> wordSlots = [

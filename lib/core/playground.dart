@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_worlde/components/keyboard_row.dart';
+import 'package:flutter_worlde/controllers/action.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'package:wordle/components/keyboard_row.dart';
-import 'package:wordle/controllers/action.dart';
 
 // ignore: must_be_immutable
 class MyPlayground extends StatefulWidget {
